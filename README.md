@@ -97,4 +97,4 @@ The **System Monitor Tool** is a C++ application that displays real-time informa
 
 ---
 
-Would you like me to include a **350-character GitHub project description** and an **extended version of this README for your college report** as well (so it’s complete for both upload and submission)?
+
